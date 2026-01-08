@@ -1,2 +1,3 @@
 # Mechatronic-Bench-Press-System
-A mechatronic bench press system integrating sensors, embedded control, and data acquisition to monitor and analyse lifting performance. The system measures force and motion in real time and processes the data to generate performance metrics for feedback and analysis.
+A mechatronic bench press system designed to measure force and displacement in real time using integrated sensors and actuators. The system captures lifting performance data, tracks repetitions and range of motion, and provides structured feedback to support safe and consistent strength training.
+The design combines compression load cells, linear Hall effect displacement sensors, electric linear actuators, and RFID-based user identification within a closed-loop control scheme. The project demonstrates applied mechatronics, including sensing, actuation, control logic, and system integration for a real-world electromechanical application.
